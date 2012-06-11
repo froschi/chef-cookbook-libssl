@@ -7,7 +7,7 @@ when "lucid"
   /
 when "precise"
   packages |= %w/
-    libssl0.9.8
+    libssl1.0.0
   /
 end
 
